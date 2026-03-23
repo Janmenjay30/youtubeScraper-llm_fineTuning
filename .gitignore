@@ -1,0 +1,34 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Logs and local runtime files
+*.log
+*.pid
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment/config secrets
+.env
+.env.*
+
+# Project-generated data/model artifacts
+youtube_scraper/mkbhd_model/
+youtube_scraper/dataset/
+audio/
